@@ -1,4 +1,4 @@
-# Hey, I'm Theon 👋
+# Hey, I'm Theon 
 
 Computer Science Engineering student passionate about building practical software, exploring emerging technologies, and turning ideas into working products.
 
@@ -7,7 +7,7 @@ Computer Science Engineering student passionate about building practical softwar
 - Learning by building, experimenting, and collaborating
 - Focused on creating useful solutions to real-world problems
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 **Languages**
 `C` `C++` `Python` `Java` `JavaScript`
@@ -21,14 +21,14 @@ Computer Science Engineering student passionate about building practical softwar
 **Currently Exploring**
 `AI/ML` `Cloud Computing` `Cybersecurity`
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 - **Temporary Cloud File Transfer** — A file-sharing platform built around temporary transfers and retrieval codes.
 - **VisionLedger** — An experimental project exploring AI and blockchain technologies.
 
 
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 - Gmail: theonmanish@gmail.com
 - LinkedIn: www.linkedin.com/in/theonmanish

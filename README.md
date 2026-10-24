@@ -23,8 +23,19 @@ Computer Science Engineering student passionate about building practical softwar
 
 ###  Featured Projects
 
-- **Temporary Cloud File Transfer** — A file-sharing platform built around temporary transfers and retrieval codes.
+- **Temporary Cloud File Transfer**
+A file-sharing platform designed around temporary file storage, multiple-file uploads, retrieval codes, and automatic expiry, with a focus on simple and convenient transfers.
+- **LearnAssist** — RAG-Based Learning Assistant
+An AI-powered learning assistant that uses Retrieval-Augmented Generation (RAG) to retrieve relevant information from source material and generate context-aware answers.
+- **LocalSend Drop-Zone**
+A lightweight Windows desktop utility built with Python and PySide6 that provides a floating drag-and-drop zone for transferring files to mobile devices over a local network using the LocalSend CLI. Designed to make file sharing quicker and more convenient.
+- **Botanical Garden Tour App**
+An interactive tour application for a botanical garden, featuring a map-based navigation interface, plant catalogue, and plant lookup functionality to help visitors explore the garden and discover its plant collection.
+- **NoteIt** — Notes Application
+A basic notes application built with React to explore component-based development, state management, and browser Local Storage for persisting notes.
 - **VisionLedger** — An experimental project exploring AI and blockchain technologies.
+
+
 
 
 
